@@ -1,0 +1,18 @@
+img{width: 60px;
+height: 60px;}
+
+.course-body{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    justify-content: space-between;
+}
+
+a{text-decoration: none;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.one{text-align: start;}
