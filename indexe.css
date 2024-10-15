@@ -1,0 +1,77 @@
+.logo{width: 60px;
+    height: 60px;} 
+    
+    
+     
+     /* img{
+        width:600px;
+        height:400px;
+      }  */
+    
+    
+      .carousel-inner > .carousel-item > img {
+        width:640px;
+        height:550px;
+      }
+    
+      .carousel-caption>h5 {margin-top: -200px !important;}
+    
+      h1{text-align: center;
+    padding: 20px;
+    margin-top: 20px;
+    font-weight: bolder;}
+    
+    section{display: flex;
+    flex-wrap: wrap;
+    justify-content: center;}
+    
+    article{padding: 10px;}
+    
+    
+    
+    .sectionblue{background-image: url(https://img.freepik.com/free-vector/gradient-dynamic-blue-lines-background_23-2148995756.jpg?t=st=1728856202~exp=1728859802~hmac=f2e5271ed062c1589850a5c72892f8558ced28effd8a010738c56f9eff1b2c73&w=996);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    
+    
+    p{
+        text-align: center;
+    padding: 10px;}
+    
+    
+    form{align-items: center;
+    gap: 50px;}
+    
+    
+    
+    footer{margin-top: 40px;}
+    li {list-style: none;
+    }
+    
+    a{text-decoration: none;
+    font-weight: 600;}
+    
+    
+    .spinner{left: -62px;}
+    
+    .position-absolute{width: 100px;
+    height: 100px;
+    left: 300px;
+    top: 100px;
+    border-radius: 5px;
+    
+    }
+    
+    .two{top: 250px;
+    left: 100px;}
+    
+    .three{top: 400px;}
+    
+    .four{left:1100px ;}
+    
+    .five{top: 250px;
+      left: 1300px;}
+    
+      .six{top: 400px;
+      left: 1100px;}
